@@ -10,7 +10,7 @@ class App extends Component {
           <p> Right Answer</p>
         </div>
         <div className="wrong">
-          <p> Wrong Answer</p>
+          <p> Wrong Answer </p>
       </div>
     );
   }
