@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.num-box {
+  border: black solid 2px;
+  padding: 25px;
+}
+
 .right {
   color: red;
 }
